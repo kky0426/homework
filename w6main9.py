@@ -5,6 +5,7 @@
             sum=sum+i
     print sum
     return sum
+sumOfMultiplesOf3_5(1,1000)
 import turtle
 wn=turtle.Screen()
 wn.exitonclick()
